@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "62338853f888982da28315c2"
+  },
+  "nombre": "losartan",
+  "composicion": "200Mg"
+},{
+  "_id": {
+    "$oid": "62338853f888982da28315c3"
+  },
+  "nombre": "fluor",
+  "composicion": "500Mg"
+},{
+  "_id": {
+    "$oid": "62338853f888982da28315c4"
+  },
+  "nombre": "ibuprofeno",
+  "composicion": "800Mg"
+}]

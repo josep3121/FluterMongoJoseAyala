@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "623387fbf888982da28315bf"
+  },
+  "nombre": "Blanquemiento",
+  "zona": "central",
+  "valor": "1200000"
+},{
+  "_id": {
+    "$oid": "623387fbf888982da28315c0"
+  },
+  "nombre": "inplante Dental",
+  "zona": "Cordal",
+  "valor": "1600000"
+},{
+  "_id": {
+    "$oid": "623387fbf888982da28315c1"
+  },
+  "nombre": "resinas",
+  "zona": "Hospital",
+  "valor": "30000"
+}]

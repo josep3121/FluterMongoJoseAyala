@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "62338aa7f888982da28315cb"
+  },
+  "nombre": "consulta",
+  "Disponible": "si"
+},{
+  "_id": {
+    "$oid": "62338aa7f888982da28315cc"
+  },
+  "nombre": "ortodoncia",
+  "Disponible": "si"
+},{
+  "_id": {
+    "$oid": "62338aa7f888982da28315cd"
+  },
+  "nombre": "correcion mandibula",
+  "Disponible": "no"
+}]

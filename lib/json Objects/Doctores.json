@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "623387acf888982da28315bc"
+  },
+  "nombre": "andres",
+  "profesion": "Odontologo",
+  "estado": "activo"
+},{
+  "_id": {
+    "$oid": "623387acf888982da28315bd"
+  },
+  "nombre": "Pedro",
+  "profesion": "Neurocirujano",
+  "estado": "activo"
+},{
+  "_id": {
+    "$oid": "623387acf888982da28315be"
+  },
+  "nombre": "ernesto",
+  "profesion": "cardiologo",
+  "estado": "descanso"
+}]

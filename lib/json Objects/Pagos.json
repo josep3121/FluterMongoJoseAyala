@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "62338a0ef888982da28315c8"
+  },
+  "fecha": "enero",
+  "Valor": "330000",
+  "Procedimiento": "cirujia"
+},{
+  "_id": {
+    "$oid": "62338a0ef888982da28315c9"
+  },
+  "fecha": "enero",
+  "Valor": "50000",
+  "Procedimiento": "calza"
+},{
+  "_id": {
+    "$oid": "62338a0ef888982da28315ca"
+  },
+  "fecha": "febrero",
+  "Valor": "150000",
+  "Procedimiento": "Extraccion cordalas"
+}]

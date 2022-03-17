@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "6233893df888982da28315c5"
+  },
+  "fecha": "20-02-13",
+  "doctor": "Manuel Rosero"
+},{
+  "_id": {
+    "$oid": "6233893df888982da28315c6"
+  },
+  "fecha": "20-02-13",
+  "doctor": "juan recalde"
+},{
+  "_id": {
+    "$oid": "6233893df888982da28315c7"
+  },
+  "fecha": "20-02-13",
+  "doctor": "daniel otero"
+}]
